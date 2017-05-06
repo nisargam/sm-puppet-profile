@@ -1,3 +1,3 @@
-class prfile::docker {
+class profile::docker {
   include ::docker
 }
